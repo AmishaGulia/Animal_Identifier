@@ -1,7 +1,7 @@
 
 
 
-# Animal Classification 
+# Animal Identifier
 
 A multi-level animal detection and classification system that leverages **YOLO**, **CNNs**, **Vision Transformers (ViT)**, **FAISS**, and **Large Language Models (LLM)** to detect, classify, and explain animal species in images or live camera feed. The system supports community contributions for unknown species.
 
